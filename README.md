@@ -1,14 +1,14 @@
 # EXPO-API-ROUTES
 
-Aplicação simples que demonstra a nova funcionalidade do Expo de rotas API.<br />
-É uma tela de login que, ao submeter o formulário, chama uma API Route.<br />
+Aplicação simples que demonstra a funcionalidade do Expo Router.<br />
+É uma tela de login que, ao submeter o formulário, chama uma rota API do próprio app.<br />
 Baseado no vídeo [BACKEND + DEPLOY com React Native, API ROUTES e EXPO ROUTER](https://www.youtube.com/watch?v=BfbcIhfjNlI), do canal do Rodrigo Gonçalves no Youtube. <br />
 <br/>
 
 ## 🚀 Tecnologias
 
 - __React Native__ + __Expo__
-- __Expo-API-Routes__ para rotas API
+- __Expo Router__ para rotas API
 - __Axios__ para chamadas da API
 
 
